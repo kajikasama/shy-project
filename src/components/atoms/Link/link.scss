@@ -1,0 +1,12 @@
+$coklat: rgb(136, 49, 8);
+.link{
+  text-align: center;
+  font-size: 16px;
+  color: $coklat;
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.8;
+}
+.link:hover{
+  opacity: 1;
+}

@@ -1,0 +1,33 @@
+$coklat: rgba(136, 49, 8, 0.9);
+html,
+body {
+  font-family: "Arial";
+}
+.patokan {
+  display: flex;
+  box-sizing: border-box;
+  height: 100vh;
+  .img-kiri {
+    flex: 1;
+    height: 100vh;
+    .img-register {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  .form-kanan {
+    width: 540px;
+    background: rgb(255, 255, 255);
+    padding: 40px;
+    display: flex; //ngeflex cuy
+    flex-direction: column; //sejajar dengan kolom
+    justify-content: center; //buat ketengah
+    box-sizing: border-box;
+    .title {
+      font-size: 28px;
+      color: $coklat;
+      font-weight: bold;
+    }
+  }
+}

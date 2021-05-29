@@ -1,0 +1,16 @@
+.form-wrapper .label {
+  margin: 0;
+  margin-bottom: 100px;
+  font-size: 18px;
+}
+.form-wrapper .input-text {
+  border: 1px solid #a3a3a3;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 4px;
+  outline: none;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 8px;
+}/*# sourceMappingURL=input.css.map */

@@ -1,0 +1,19 @@
+.form-wrapper{
+
+  .label{
+    margin: 0;
+    margin-bottom: 100px;
+    font-size: 18px;
+  }
+  
+  .input-text{
+    border: 1px solid rgb(163, 163, 163);
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 4px;
+    outline: none ;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 8px;
+  }
+}

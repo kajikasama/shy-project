@@ -1,0 +1,12 @@
+.link {
+  text-align: center;
+  font-size: 16px;
+  color: #883108;
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.link:hover {
+  opacity: 1;
+}/*# sourceMappingURL=link.css.map */

@@ -1,0 +1,17 @@
+$coklat: rgb(136, 49, 8);
+.button{
+  width: 100%;
+  padding: 20px;
+  font-size: 18px;
+  background: $coklat;
+  border: none;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  color: white;
+  opacity: 0.9;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.button:hover{
+  opacity: 1;
+}
